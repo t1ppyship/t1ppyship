@@ -9,5 +9,5 @@ ${\textsf{\color{#1c3845}୨ৎ⠀c+h}}$ ${\textsf{\color{#254243}always}}$ ${\t
 ${\textsf{\color{#254243}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀}}$
 ${\textsf{\color{#254243}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀}}$
 ${\textsf{\color{#254243}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀}}$
-${\textsf{\color{#254243}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀}}$ ${\textsf{\color{#1c3845}tančí}}$ ${\textsf{\color{#254243}má}}$ ${\textsf{\color{#0f4f4d}milá,}}$ ${\textsf{\color{#254243}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀}}$
+${\textsf{\color{#254243}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀}}$ ${\textsf{\color{#1c3845}tančí}}$ ${\textsf{\color{#254243}má}}$ ${\textsf{\color{#0f4f4d}milá,}}$ ${\textsf{\color{#254243}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀}}$
 ${\textsf{\color{#615025}sníh}}$ ${\textsf{\color{#645246}ji}}$ ${\textsf{\color{#625c57}dojímá}}$
